@@ -1,0 +1,2 @@
+document.writlen("A")
+let()
